@@ -1,23 +1,33 @@
 *{
   margin: 0;
   padding: 0;
+  
 }
 
-#navbar{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  
+h1{
+  text-align: center;
+  font-size: 50px;
 }
 
 h3{
-  font-size: 50px;
-  margin-left: 40%;
+  font-size: 30px;
+}
+
+
+nav{
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+  text-align: start;
+  background-color: aqua;
 }
 
 button{
-  font-size: 20px;
-  font-weight: bold;
-  
+  font-size: 30px;
 }
 
+
+img{
+  height: 50px;
+  width: 50px;
+}

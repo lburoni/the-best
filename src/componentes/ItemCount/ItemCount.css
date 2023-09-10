@@ -1,0 +1,22 @@
+
+
+.Controls{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5px;
+}
+
+.Button{
+   text-align: center;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+.Counter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
